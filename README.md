@@ -1,4 +1,4 @@
-# 🏛️ Android System Design & Architecture Catalog
+# Android System Design & Architecture Catalog
 
 A practical laboratory focused on **technical purism** and solving chronic scalability problems in Android applications. 
 
