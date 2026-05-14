@@ -14,8 +14,6 @@ This repository serves as an open catalog of advanced engineering patterns, demo
 **The Problem:** Scaling a single codebase for multiple clients (whitelabel) often leads to a massive coupling of UI components and an endless maze of `if/else` statements for colors, typography, and dimensions.
 **The Architecture:** This module demonstrates a clean approach to dynamic multi-theming using Jetpack Compose. It isolates design tokens and brand definitions (using Portuguese Football Clubs as a tangible example) so the UI layer remains completely agnostic to the current active tenant.
 
-**[Explore the Implementation Details](https://github.com/LucasFaiska/PortugalTeams)**
-
 ---
 
 ## Upcoming Roadmap
